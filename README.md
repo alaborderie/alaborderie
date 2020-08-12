@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome to my profile 👋
 
-<!--
-**alaborderie/alaborderie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Freelance Fullstack Developer
 
-Here are some ideas to get you started:
+- 👨‍💻 Experienced Javascript Developer
+- 🕸 Using Node / Angular / ReactJS for the web
+- 📱 Using ReactNative for mobile apps
+- 🌱 Learning Elixir/Phoenix and Dart/Flutter
+- 🏄‍♂️ Surf beginner in South West of France 🇫🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you need help for Web or Mobile development, be sure to contact me here :
+- 👉 [Linkedin](https://www.linkedin.com/in/antoine-laborderie-866090130)
+- 👉 [E-mail](mailto:antoine.laborderie@gmail.com)
+
+Happy coding!
