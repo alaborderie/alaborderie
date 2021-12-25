@@ -5,7 +5,7 @@
 - 👨‍💻 Experienced Javascript Developer
 - 🕸 Using Node / Angular / ReactJS for the web
 - 📱 Using ReactNative for mobile apps
-- 🌱 Learning Elixir/Phoenix and Dart/Flutter
+- 🌱 Learning Rust, Elixir/Phoenix and Dart/Flutter
 - 🏄‍♂️ Surf beginner in South West of France 🇫🇷
 
 If you need help for Web or Mobile development, be sure to contact me here :
