@@ -1,17 +1,14 @@
-# Welcome to my profile 👋
+# Hi, I'm Antoine 👋
 
-## I'm a Freelance Software Engineer / DevOps
+Freelance platform engineer near Bordeaux, France. These days I mostly work on developer experience and AI: agentic coding workflows with Claude Code and Cursor, internal developer portals with Backstage, and Kubernetes.
 
-- 👨‍💻 Experienced Typescript / Javascript Developer
-- 👽 Linux addict, K8S and IaC lover
-- 🕸 Mostly using Node and React for the web
-- 💻 Back-end or scripting in Rust, Go and Elixir/Phoenix
-- 🏄‍♂️ Surf beginner in South West of France 🇫🇷
+What I'm building right now:
+- Agent harnesses that take a task all the way to a reviewed, tested PR
+- Shared skills and plugins for Claude Code, Codex and opencode
+- Internal tooling: Backstage, Kubernetes, CI
 
-If you need help for anything programming or IaC related, be sure to contact me here :
-- 👉 [Linkedin](https://www.linkedin.com/in/antoine-laborderie-866090130)
-- 👉 [E-mail](mailto:antoine.laborderie@gmail.com)
-- 👉 [Malt](https://www.malt.fr/profile/antoinelaborderie)
-- 👉 [Website](https://antoinelaborderie.com)
+Stack: TypeScript / Node, React, Go, Rust, Elixir. Linux and Neovim, mostly from the terminal.
 
-Happy hacking!
+Surf beginner in the South West of France 🏄‍♂️
+
+Want to talk? [LinkedIn](https://www.linkedin.com/in/antoine-laborderie-866090130) · [Malt](https://www.malt.fr/profile/antoinelaborderie) · [Website](https://antoinelaborderie.com) · [E-mail](mailto:antoine.laborderie@gmail.com)
